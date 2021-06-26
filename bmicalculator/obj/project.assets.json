@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\c# training\\bmicalculator\\bmicalculator\\BmiCalculatorProgram.csproj",
-      "projectName": "BmiCalculatorProgram",
-      "projectPath": "F:\\c# training\\bmicalculator\\bmicalculator\\BmiCalculatorProgram.csproj",
+      "projectUniqueName": "F:\\c# training\\InheritanceProgram\\InheritanceProgram.csproj",
+      "projectName": "InheritanceProgram",
+      "projectPath": "F:\\c# training\\InheritanceProgram\\InheritanceProgram.csproj",
       "packagesPath": "C:\\Users\\sumanth.r\\.nuget\\packages\\",
-      "outputPath": "F:\\c# training\\bmicalculator\\bmicalculator\\obj\\",
+      "outputPath": "F:\\c# training\\InheritanceProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
