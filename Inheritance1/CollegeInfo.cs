@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InheritanceProgram
 {
-    public abstract class CollegeInfo  //CollegeInformation
+    public abstract class CollegeInfo  //CollegeInformations
     {
         private string _idCard;
 
