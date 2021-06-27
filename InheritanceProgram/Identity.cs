@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InheritanceProgram
 {
-    public abstract class Identity  //CollegeInformation
+    public abstract class Identity 
     {
         private string _name, _dob, _validity;
         private int _enrollmentNo;
