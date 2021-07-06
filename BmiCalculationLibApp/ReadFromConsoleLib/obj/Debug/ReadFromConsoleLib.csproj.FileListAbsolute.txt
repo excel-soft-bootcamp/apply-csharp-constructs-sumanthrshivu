@@ -1,0 +1,11 @@
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\bin\Debug\ReadFromConsoleLib.dll
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\bin\Debug\ReadFromConsoleLib.pdb
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\obj\Debug\ReadFromConsoleLib.csprojAssemblyReference.cache
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\obj\Debug\ReadFromConsoleLib.csproj.CoreCompileInputs.cache
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\obj\Debug\ReadFromConsoleLib.dll
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\obj\Debug\ReadFromConsoleLib.pdb
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\bin\Debug\CalCulateBmiLib.dll
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\bin\Debug\CalCulateBmiLib.pdb
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\obj\Debug\ReadFromConsoleLib.csproj.CopyComplete
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\bin\Debug\ConsoleDisplayLib.dll
+F:\c# training\BmiCalculationLibApp\ReadFromConsoleLib\bin\Debug\ConsoleDisplayLib.pdb
