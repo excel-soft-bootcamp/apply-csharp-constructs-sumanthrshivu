@@ -1,8 +1,0 @@
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\bin\Debug\ValidateBmiLib.dll
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\bin\Debug\ValidateBmiLib.pdb
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\obj\Debug\ValidateBmiLib.csproj.CoreCompileInputs.cache
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\obj\Debug\ValidateBmiLib.dll
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\obj\Debug\ValidateBmiLib.pdb
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\obj\Debug\ValidateBmiLib.csproj.CopyComplete
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\bin\Debug\CalCulateBmiLib.dll
-F:\c# training\BmiCalculationLibApp\ValidateBmiLib\bin\Debug\CalCulateBmiLib.pdb

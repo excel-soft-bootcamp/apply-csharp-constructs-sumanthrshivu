@@ -1,9 +1,0 @@
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.dll
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.pdb
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csproj.CoreCompileInputs.cache
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.dll
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.pdb
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\bin\Debug\ValidateBmiLib.dll
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\bin\Debug\ValidateBmiLib.pdb
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csprojAssemblyReference.cache
-F:\c# training\BmiCalculationLibApp\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csproj.CopyComplete
