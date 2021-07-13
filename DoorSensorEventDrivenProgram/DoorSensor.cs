@@ -23,15 +23,6 @@ namespace DoorSensorEventDrivenProgram
             DoorSensorstatus = "DoorClosed";
             OnDoorSensorStatusChanged.Invoke(this.DoorSensorstatus);
         }
-        public void Add_Observer(DoorSensorstatusHandler observer)
-        {
-            OnDoorSensorStatusChanged += observer;
-        }
-        public void Remove_Observer(DoorSensorstatusHandler observer)
-        {
-
-            OnDoorSensorStatusChanged -= observer;
-        }
-
+       
     }
 }
