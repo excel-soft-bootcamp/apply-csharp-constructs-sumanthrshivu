@@ -1,0 +1,7 @@
+F:\c# training\DoorSensorEventDrivenProgram\bin\Debug\DoorSensorEventDrivenProgram.exe.config
+F:\c# training\DoorSensorEventDrivenProgram\bin\Debug\DoorSensorEventDrivenProgram.exe
+F:\c# training\DoorSensorEventDrivenProgram\bin\Debug\DoorSensorEventDrivenProgram.pdb
+F:\c# training\DoorSensorEventDrivenProgram\obj\Debug\DoorSensorEventDrivenProgram.csprojAssemblyReference.cache
+F:\c# training\DoorSensorEventDrivenProgram\obj\Debug\DoorSensorEventDrivenProgram.csproj.CoreCompileInputs.cache
+F:\c# training\DoorSensorEventDrivenProgram\obj\Debug\DoorSensorEventDrivenProgram.exe
+F:\c# training\DoorSensorEventDrivenProgram\obj\Debug\DoorSensorEventDrivenProgram.pdb
