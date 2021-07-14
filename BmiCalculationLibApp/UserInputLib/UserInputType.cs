@@ -38,7 +38,8 @@ namespace UserInputLib
                 BmiValidateLib.ValidateBmiType _validateBmi = new BmiValidateLib.ValidateBmiType();
                 string message = _validateBmi.Check_BmiValue(BMI_Cal);
 
-                ConsoleDisplayLib.ConsoleDisplayType.DisplayMessage(message);
+                ConsoleDisplayLib.ConsoleDisplayType.DisplayMessage("BmiValue          Result");
+                ConsoleDisplayLib.ConsoleDisplayType.DisplayMessage( BMI_Cal + "  "+ message);
             }
 
         }
